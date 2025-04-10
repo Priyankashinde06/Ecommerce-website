@@ -1,3 +1,4 @@
 # React + Vite
-Install package
-npm i
+Install package:
+
+    npm i
